@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import reportWebVitals from './reportWebVitals';                         
+import {ChakraProvider }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
